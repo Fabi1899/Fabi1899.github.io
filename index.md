@@ -6,5 +6,4 @@ It’s like in the great stories, Mr. Frodo. The ones that really mattered. Full
 * I don't know him well
 * has a great garden
 * loves the dark
-
-I don't know any
+> I don't know any
