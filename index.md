@@ -7,3 +7,4 @@ It’s like in the great stories, Mr. Frodo. The ones that really mattered. Full
 * has a great garden
 * loves the dark
 > I don't know any
+<img src="https://s3.xopic.de/openhpi-public/courses/7cZWaATaTjbQ4phWCr6tg3/rtfiles/4q6wOLeLWYMu5syPwPlVPR/85002346_267b8e5c6c_o.jpg"/>
